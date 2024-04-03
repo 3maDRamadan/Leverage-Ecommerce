@@ -1,0 +1,10 @@
+/*Start Navbar*/
+.navbar-nav a {
+  font-size: 18px;
+}
+/*End Navbar*/
+/*Start Products*/
+.products {
+  display: flex;
+}
+/*End Products*/
